@@ -35,6 +35,7 @@ For corrections or suggestions, please open an issue or submit a pull request. A
 * **IJCAI**: 
   * 2019: https://www.ijcai19.org/accepted-papers.html
   * 2020: https://static.ijcai.org/2020-accepted_papers.html
+  * 2021: https://ijcai-21.org/program-main-track/
 * **NIPS**: 
   * All: https://papers.nips.cc/
 * **ICLR**: 
