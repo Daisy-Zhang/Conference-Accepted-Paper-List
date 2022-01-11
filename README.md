@@ -35,6 +35,7 @@ For corrections or suggestions, please open an issue or submit a pull request. A
   * 2019: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf
   * 2020: https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf
   * 2021: [PDF](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf)
+  * 2022: [PDF](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)
 * **IJCAI**: 
   * 2019: https://www.ijcai19.org/accepted-papers.html
   * 2020: https://static.ijcai.org/2020-accepted_papers.html
