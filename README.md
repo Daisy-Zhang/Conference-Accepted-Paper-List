@@ -1,4 +1,4 @@
-# DL&CV Conference Accepted Paper List
+# AI&CV Related Conference Accepted Paper List
 
 This repository is a collection of accepted paper list in several **Machine Learning**, **Deep Learning** and **Computer Vision** conferences within three years. The purpose of this repo is just for convience.
 
