@@ -12,6 +12,7 @@ For corrections or suggestions, please open an issue or submit a pull request. A
   * 2019: https://openaccess.thecvf.com/CVPR2019
   * 2020: https://openaccess.thecvf.com/CVPR2020
   * 2021: https://openaccess.thecvf.com/CVPR2021
+  * 2022: https://cvpr2022.thecvf.com/accepted-papers
 * **ICCV**: 
   * 2019: https://openaccess.thecvf.com/ICCV2019
   * 2021: https://openaccess.thecvf.com/ICCV2021
