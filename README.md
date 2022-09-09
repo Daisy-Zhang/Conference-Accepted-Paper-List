@@ -41,6 +41,7 @@ For corrections or suggestions, please open an issue or submit a pull request. A
   * 2019: https://www.ijcai19.org/accepted-papers.html
   * 2020: https://static.ijcai.org/2020-accepted_papers.html
   * 2021: https://ijcai-21.org/program-main-track/
+  * 2022: https://ijcai-22.org/main-track-accepted-papers/
 * **NIPS**: 
   * All: https://papers.nips.cc/
 * **ICLR**: 
@@ -51,3 +52,4 @@ For corrections or suggestions, please open an issue or submit a pull request. A
 * **ICML**: 
   * 2020: https://icml.cc/virtual/2020/papers.html
   * 2021: https://icml.cc/Conferences/2021/AcceptedPapersInitial
+  * 2022: https://icml.cc/Conferences/2022/Schedule
